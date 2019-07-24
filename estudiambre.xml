@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiante NoCuenta="420002945">
+  <nombre>
+    Oscar David Hernández Rodríguez
+  </nombre>
+  <edad>
+    19 años
+  </edad>
+  <correo>
+    oscardlyg@gmail.com
+  </correo>
+  <sexo>
+    masculino
+  </sexo>
+</estudiante>  
+  
